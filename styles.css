@@ -1,2 +1,18 @@
-
+.holder{
+	display: grid;
+	grid-template-columns: repeat(2 , 2fr);
+	
+}
+.item-1{
+	background-color: lightblue;
+}
+.item-2 {
+	background-color: lightcoral;
+}
+.item-3 {
+	background-color: lightgreen;
+}
+.item-4 {
+	background-color: lightgoldenrodyellow;
+}
 /* Your CSS Code here. */
