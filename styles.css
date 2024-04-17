@@ -1,7 +1,7 @@
 .holder{
 	display: grid;
-	grid-template-columns: repeat(2 , 2fr);
-	
+	grid-template-columns: 100px 100px;
+	grid-template-rows: 100px 100px;
 }
 .item-1{
 	background-color: lightblue;
